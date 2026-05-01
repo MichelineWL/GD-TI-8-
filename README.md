@@ -10,8 +10,8 @@ Selain itu, partikel lari memberikan *feedback* visual yang sangat memuaskan. Pa
 
 ## 2. Game Balancing: Spawn Rate
 Setelah melakukan beberapa percobaan, saya memilih nilai Spawn Rate yang memberikan tantangan yang adil namun tetap bisa dilewati.
-- **Spawn Rate Terpilih:** 2.0 detik
-- **Alasan:** Nilai 2.0 detik memberikan jeda yang cukup bagi pemain untuk bereaksi dan melompati musuh yang muncul, namun tetap mempertahankan ritme permainan. Jika terlalu cepat (seperti 0.3 detik), pemain akan merasa kewalahan (*rage quit*), dan jika terlalu lambat (seperti 5.0 detik), tantangan menjadi hilang. Nilai 2.0 detik menciptakan kondisi **flow** di mana pemain harus tetap fokus tanpa merasa frustrasi.
+- **Spawn Rate Terpilih:** 3.5 detik
+- **Alasan:** Nilai 3.5 detik memberikan waktu yang cukup bagi pemain untuk melompat dan mengatur posisi sebelum musuh berikutnya muncul. Sebelumnya (0.3 detik) terlalu sulit dan hampir tidak mungkin dilewati. Dengan 3.5 detik, permainan terasa lebih adil dan menyenangkan.
 
 ## 3. Referensi
 - [Godot Documentation: Interpolation](https://docs.godotengine.org/en/stable/tutorials/math/interpolation.html)

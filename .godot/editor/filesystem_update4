@@ -1,2 +1,3 @@
 res://default_env.tres
 res://Scenes/Level 1.tscn
+res://scripts/Spawner.gd
